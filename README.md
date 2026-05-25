@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Arijeet 👋
 
-<!--
-**Arijeet-1903/Arijeet-1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS(AI&ML) Undergraduate at IIIT Nagpur  
+🤖 Interested in Machine Learning, AI, and Quantitative Systems  
+📈 Currently building ML and stock prediction projects  
+🐍 Python | Scikit-learn | TensorFlow | Streamlit | Gensim
 
-Here are some ideas to get you started:
+## Current Focus
+- Machine Learning
+- Deep Learning
+- NLP
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Stock Price Prediction using Ensemble Learning
+- house price prediction
+- safespotter project
+- movie review sentiment analysis
