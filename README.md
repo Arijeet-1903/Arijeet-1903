@@ -1,12 +1,37 @@
 # Hi, I'm Arijeet 👋
 
-🎓 CS Undergraduate at IIIT Nagpur  
+🎓 CS(AI & ML) Undergraduate at IIIT Nagpur  
 🤖 Interested in Machine Learning, AI, and Quantitative Systems  
-📈 Building ML and stock prediction projects  
+📈 Currently building ML and stock prediction projects  
+🐍 Python | Scikit-learn | TensorFlow | Streamlit | Gensim  
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Current Focus
+
+- Machine Learning  
+- Deep Learning  
+- Natural Language Processing (NLP)  
+- Data Structures & Algorithms  
+
+---
+
+## 📌 Projects
+
+- 📈 Stock Price Prediction using Ensemble Learning  
+- 🏠 House Price Prediction  
+- 🛡️ SafeSpotter Project  
+- 🎬 Movie Review Sentiment Analysis  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+
+---
+
+## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,git,github,streamlit" />
 
@@ -16,19 +41,4 @@
 
 ![Arijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arijeet-1903&show_icons=true&theme=tokyonight)
 
----
-
-## 🔥 Current Focus
-
-- Machine Learning
-- Deep Learning
-- Financial Analytics
-- DSA & Problem Solving
-
----
-
-## 📌 Featured Projects
-
-- Stock Price Prediction using Ensemble Learning
-- Financial Sentiment Analysis
-- Streamlit ML Dashboard
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijeet-1903&layout=compact&theme=tokyonight)
