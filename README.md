@@ -25,10 +25,10 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐  Online Presence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/my-learning?myLearningTab=CERTIFICATES)
 ---
 
 ## 🛠️ Tech Stack
